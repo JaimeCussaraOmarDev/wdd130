@@ -19,14 +19,16 @@ h1 {
 img {
     width: 150px;
     height: auto;
+    display:block;
     border: 1px solid black;
     padding: 2 px;
-    box-shadow: 00 30px gray;
+    box-shadow: 0  4px 10px gray;
+    margin-bottom: 15px;
 
 
 }
 
 p {
-    panding: 10px;
+    padding: 10px;
     
 }
